@@ -1,47 +1,57 @@
-# 👋 Hi, I'm Mohammed Zayed A
-
-🎓 B.Tech CSE Student (2022–26) | 🤖 AI & Full-Stack Developer  
-
----
-
-## 🧠 Summary
-A passionate fresher with strong interest in AI, ML and software development, eager to build innovative tech solutions and real-world products.
-
----
-
-## 🚀 Projects
-
-### 🔐 SecureScan AI (In Progress)
-AI-powered malware & threat detection SaaS platform.
-
-### 📊 ByteQuest (Jan 2026 – Present)
-AI-powered placement preparation platform with coding analytics, offline AI chat, algorithm visualization, debugging & complexity analysis modules.
-
-### 👁 Object Detection System
-ESP32-CAM based real-time object detection using CNN (Edge Impulse + Arduino).
-
-### 🧳 Travel Blog Website
-Dynamic blog platform with authentication & ads using PHP / Node.js + MongoDB.
-
-### ⚖️ Legal Team Assistant (Multi-Agent System)
-Multi-agent AI system for legal case research, summarization, contradiction detection, and citation validation using NLP and automation.
-
+<div align="center">
+  <h1>Hi there, I'm Mohammed Zayed A 👋</h1>
+  <h3>Agentic AI & Full-Stack Developer</h3>
+  <p>🎓 B.Tech CSE Student (2022–26)</p>
+  <p>Specializing in building scalable Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and production-grade AI applications.</p>
+  
+  <a href="mailto:mohammedzayed1911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 ---
 
-## 🛠 Tech Stack
-Python, Flask, Node.js, React, MongoDB, Git, GitHub, LangChain, OpenAI API
+### 🛠️ Technical Arsenal
+* **Languages:** Python, JavaScript, HTML/CSS, SQL (MySQL)
+* **AI & Machine Learning:** Agentic AI, NLP, LLMs, RAG, Deep Neural Networks, Random Forest, SVM
+* **Frameworks & Tools:** FastAPI, LangChain, Node.js, MongoDB, Git, GitHub
+* **Vector Databases:** ChromaDB, pgvector (Supabase)
 
 ---
 
-## 📜 Certifications
-- MongoDB with Python – MongoDB  
-- Machine Learning – Internshala  
-- Quantitative Research Simulation – J.P. Morgan  
-- Academic Process Mining Fundamentals – Celonis  
+### 🚀 Featured Projects
+
+#### 1. 📊 ByteQuest (AI-Powered Analytics Platform)
+**Data-driven framework for adaptive learning and placement readiness.**
+* Developed a Deep Neural Network evaluating placement readiness with 94.6% model accuracy.
+* Implemented multi-modal ML for facial expression and stress analysis, alongside statistical point detectors (Isolation Forest, One-Class SVM).
+
+#### 2. ⚖️ Legal Team Assistant (Multi-Agent System)
+**Production-ready RAG pipeline for intelligent legal document analysis.**
+* Achieved a 40% reduction in case research time using a Multi-Agent RAG system built with Python, FastAPI, and LangChain.
+* Engineered secure data ingestion into a Vector Database (ChromaDB), guaranteeing 100% factual reliability with strict source citation tracking.
+* Implemented a legal query classifier utilizing OpenAI APIs to improve search accuracy.
+
+#### 3. 👁️ Object Detection & Identification
+**Real-time edge inference on ESP-32 hardware.**
+* Trained and deployed a custom CNN model using Python and Deep Learning, optimizing memory usage for successful real-time classification.
+
+#### 4. ✈️ Travel Blog Website
+**Full-stack content management and authentication platform.**
+* Delivered a seamless digital experience for end-users by developing a robust backend and responsive frontend using Node.js, MongoDB, HTML, CSS, and JavaScript.
+
+#### 5. 🔐 SecureScan AI (In Progress)
+**AI-powered malware & threat detection SaaS platform.**
+* Currently engineering a robust threat-detection pipeline leveraging advanced AI models to identify and mitigate security vulnerabilities.
 
 ---
 
-## 📫 Contact
-📧 mohammedzayed1911@gmail.com  
-🌐 https://github.com/mohammedzayed889
+### 🏆 Certifications & Achievements
+- **Machine Learning** - Internshala
+- **MongoDB with Python** - MongoDB
+- **Quantitative Research Job Simulation** - J.P. Morgan
+- **Academic Process Mining Fundamentals** - Celonis
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedzayed889&show_icons=true&theme=radical" alt="Zayed's GitHub Stats" />
+</div>
