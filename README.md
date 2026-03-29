@@ -26,9 +26,9 @@
 
 #### 2. ⚖️ Legal Team Assistant (Multi-Agent System)
 **Production-ready RAG pipeline for intelligent legal document analysis.**
-* Achieved a 40% reduction in case research time using a Multi-Agent RAG system built with Python, FastAPI, and LangChain.
-* Engineered secure data ingestion into a Vector Database (ChromaDB), guaranteeing 100% factual reliability with strict source citation tracking.
-* Implemented a legal query classifier utilizing OpenAI APIs to improve search accuracy.
+* Achieved a 40% reduction in case research time using an automated Retrieval-Augmented Generation (RAG) system built with Python, FastAPI, and LangChain.
+* Engineered secure data ingestion and chunking into a Supabase (pgvector) vector database, guaranteeing 100% factual reliability with strict source citation tracking.
+* Implemented an advanced semantic search and synthesis pipeline utilizing OpenAI GPT-4o embeddings to maximize legal retrieval accuracy.
 
 #### 3. 👁️ Object Detection & Identification
 **Real-time edge inference on ESP-32 hardware.**
